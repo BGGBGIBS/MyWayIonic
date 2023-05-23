@@ -1,0 +1,7 @@
+{
+  "name": "MyWay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
